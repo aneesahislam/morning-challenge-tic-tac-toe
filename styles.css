@@ -1,0 +1,10 @@
+.container1, .container2, .container3{
+    display: flex;
+    width: 25%;
+}
+
+.box1, .box2, .box3, .box4, .box5, .box6, .box7, .box8, .box9{
+    border: 1px, solid, black;
+    width: 33%;
+    height: 100px;
+}
